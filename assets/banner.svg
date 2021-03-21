@@ -16,7 +16,7 @@
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="banner.svg"
-   inkscape:export-filename="/home/jpi/yeiipi/assets/banner.png"
+   inkscape:export-filename="/home/jpi/yeiipi/assets/banner_white_bg.png"
    inkscape:export-xdpi="95"
    inkscape:export-ydpi="95">
   <defs
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3658076"
-     inkscape:cx="645.9172"
-     inkscape:cy="135.68187"
+     inkscape:zoom="0.96577181"
+     inkscape:cx="566.50244"
+     inkscape:cy="183.32154"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -56,7 +56,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -64,9 +64,9 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     sodipodi:insensitive="true">
+     style="display:none">
     <rect
-       style="opacity:1;fill:#101010;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.06342286;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.1268457, 0.1268457;stroke-dashoffset:0;stroke-opacity:0.99390247"
+       style="opacity:1;fill:#141321;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.06342286;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.1268457, 0.1268457;stroke-dashoffset:0;stroke-opacity:0.99390247"
        id="rect7189"
        width="394.22916"
        height="115.09374"

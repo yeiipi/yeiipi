@@ -1,5 +1,5 @@
 
-![Header](assets/banner.png "Header")
+![](assets/banner_white_bg.png)
 
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=ffffff&color=141321)
 ![](https://img.shields.io/badge/Vim-informational?style=flat&logo=vim&logoColor=fff&color=141321)
@@ -10,11 +10,11 @@
 ![](https://img.shields.io/badge/Golang-informational?style=flat&logo=go&logoColor=ffffff&color=141321)
 ![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=javascript&logoColor=fff&color=141321)
 ![](https://img.shields.io/badge/Shell-informational?style=flat&logo=shell&logoColor=fff&color=141321)
-![](https://img.shields.io/badge/Django-informational?style=flat&logo=go&logoColor=ffffff&color=141321)
+![](https://img.shields.io/badge/Django-informational?style=flat&logo=django&logoColor=ffffff&color=141321)
 
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=yeiipi&show_icons=true&theme=radical&custom_title=My%20Github%20Stats:" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeiipi&theme=radical&custom_title=Most%20used%20language:" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeiipi&show_icons=true&theme=radical&custom_title=My%20Github%20Stats:" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeiipi&theme=radical&custom_title=Most%20used%20language:" />
 
 
