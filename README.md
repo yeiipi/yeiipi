@@ -1,5 +1,4 @@
-
-![](assets/banner_white_bg.png)
+[![Banner](assets/banner_white_bg.png)](https://github.com/yeiipi)
 
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=ffffff&color=141321)
 ![](https://img.shields.io/badge/Vim-informational?style=flat&logo=vim&logoColor=fff&color=141321)
