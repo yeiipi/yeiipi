@@ -19,3 +19,15 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=yeiipi&show_icons=true&theme=radical&custom_title=My%20Github%20Stats:" />
 </div>
 
+## Projects
+
+<div style="display:flex;margin:10px;padding:20px">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeiipi&repo=esteganew&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeiipi&repo=Proyeccion-de-Perspectiva&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeiipi&repo=music-path&theme=radical" />
+</div>
+
+
+
+
+
