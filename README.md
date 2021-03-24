@@ -15,16 +15,26 @@
 
 
 <div style="display:flex;margin:10px;padding:20px">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeiipi&theme=radical&custom_title=Most%20used%20language:&layout=compact&hide=tex,html" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeiipi&show_icons=true&theme=radical&custom_title=My%20Github%20Stats:" />
+<a href="https://github.com/yeiipi">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeiipi&theme=radical&custom_title=Most%20used%20language:&layout=compact&hide=tex,html" />
+</a>
+<a href="https://github.com/yeiipi">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yeiipi&show_icons=true&theme=radical&custom_title=My%20Github%20Stats:" />
+</a>
 </div>
 
 ## Projects
 
 <div style="display:flex;margin:10px;padding:20px">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeiipi&repo=esteganew&theme=radical" />
+<a href="https://github.com/yeiipi/esteganew">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeiipi&repo=esteganew&theme=radical" />
+</a>
+<a href="https://github.com/yeiipi/Proyeccion-de-Perspectiva">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeiipi&repo=Proyeccion-de-Perspectiva&theme=radical" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeiipi&repo=music-path&theme=radical" />
+</a>
+<a href="https://github.com/yeiipi/music-path">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeiipi&repo=music-path&theme=radical" />
+</a>
 </div>
 
 
